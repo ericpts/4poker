@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1429136075 source:c:\projects\poker4\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<algorithm>
+	<cstdio>
+	<tr1/unordered_map>
+
