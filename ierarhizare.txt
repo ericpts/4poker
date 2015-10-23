@@ -1,0 +1,12 @@
+Formațiile de cărți câștigătoare sunt, în ordine crescătoare:
+
+o pereche (două cărți la fel, ex: 2 ași);
+2 perechi;
+3 cuie (brelan) (ex: 3 valeți);
+quintă (cărțile să fie în ordine crescătoare, ex: 10, J, Q, K, A);
+culoare (toate cărțile să fie de aceeași culoare, ex: cupă);
+full house (3 de un fel și 2 de un alt fel);
+careu (4 cărți de același fel, ex.: 4 de 10);
+chintă mică (cărțile în ordine crescătoare, dar și de aceeasi culoare);
+chintă mare (roială) (cărțile să fie în ordine crescătoare, de aceeași culoare, de la 10 la A).
+Dacă niciun jucător de la masă nu are o astfel de formație, câștigă cel cu cartea cea mai mare.
